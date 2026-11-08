@@ -1,0 +1,262 @@
+{
+  "source_repository": "https://github.com/cehinds/AshenSpire",
+  "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+  "imported_assets": [
+    {
+      "key": "simplebackground",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/bg/title-city-tower.webp",
+      "source_sha256": "fb752ab4839744c14c9f08ad7af9463766a9102f109e4d56f9754d7bddce3dd1",
+      "destination_path": "Unity/Assets/Resources/Art/title-city-tower.png",
+      "destination_sha256": "369e70f7404a257207dfd2d06b02e4827f981e5f678d895c4c3f103a4df9ab5e",
+      "source_dimensions": [
+        1586,
+        992
+      ],
+      "source_mode": "RGB",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Original project-owned AI-generated title art; CREDITS.md, Title city and tower (2026-09-10). No third-party license claimed."
+    },
+    {
+      "key": "portrait_reaver",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/painted-outfits/reaver/portrait.webp",
+      "source_sha256": "da39138efc69d52d09135de103ab35f2ae472c8398657d6d158a55e2d4ae17ac",
+      "destination_path": "Unity/Assets/Resources/Art/portrait-reaver.png",
+      "destination_sha256": "70944f3342e33361431baa1e2cf3f5df03bddb8d0b52ef73cca80ec33ec82a89",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated painted outfit art; CREDITS.md, Painted player outfits. CC0 per source credits."
+    },
+    {
+      "key": "portrait_starseer",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/painted-outfits/starseer/portrait.webp",
+      "source_sha256": "63699271f69016b47f4d1d0086565b9ea6d026e4c9161c8d546274aad8085ca6",
+      "destination_path": "Unity/Assets/Resources/Art/portrait-starseer.png",
+      "destination_sha256": "fdb1ceea72598f4dddc258102e210abc875df80a31bb95f75e6c41029dba1098",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated painted outfit art; CREDITS.md, Painted player outfits. CC0 per source credits."
+    },
+    {
+      "key": "portrait_rogue",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/painted-outfits/rogue/portrait.webp",
+      "source_sha256": "ab1fd335d876d47894cf6c94de6d863c5d52f577cd2cedad8b0b32f7125a4c12",
+      "destination_path": "Unity/Assets/Resources/Art/portrait-rogue.png",
+      "destination_sha256": "d6331b51eac4d9ebe491c3e097a75a30711208f5b0870821307c6227654079a6",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated painted outfit art; CREDITS.md, Painted player outfits. CC0 per source credits."
+    },
+    {
+      "key": "portrait_herald",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/painted-outfits/herald/portrait.webp",
+      "source_sha256": "a6e17ed23bcdf5aef48356f104d3e364c5e688676d63b1c7c8e3b75f35a4abc5",
+      "destination_path": "Unity/Assets/Resources/Art/portrait-herald.png",
+      "destination_sha256": "57b586d0fd52cdd69e244409d2b4cae0a2aec55b0768a80d7ba65b5b134142e5",
+      "source_dimensions": [
+        512,
+        512
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated painted outfit art; CREDITS.md, Painted player outfits. CC0 per source credits."
+    },
+    {
+      "key": "enemy_soldier",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/enemies-unity/painted_wanderingSoldier.webp",
+      "source_sha256": "7834d23440085f9d4aa35992d94fc7ea3d4018ea8383184354933a3bb3b73e7c",
+      "destination_path": "Unity/Assets/Resources/Art/enemy-soldier.png",
+      "destination_sha256": "41cd5c84c63b0de1869a7ca98e6d88710ad77fc12cc70cce456d3af5d120cc8f",
+      "source_dimensions": [
+        384,
+        384
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Unchanged painted frame from project-owned AI-generated Unity-fork enemy sheet; source CREDITS.md, Painted enemy sprites from the Unity fork; source assets/enemies-unity/provenance.json. No third-party license claimed."
+    },
+    {
+      "key": "enemy_wisp",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/enemies-unity/painted_graveWisp.webp",
+      "source_sha256": "caa1d697229e004a00e60b644a7767a6a54e6e2c3dd7e4f4f5f5a7af7161c51e",
+      "destination_path": "Unity/Assets/Resources/Art/enemy-wisp.png",
+      "destination_sha256": "0ac631cfdab7a4d828fe2049fdd32b389e5af6f9b6b8668d736b81110bfa9d19",
+      "source_dimensions": [
+        384,
+        384
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Unchanged painted frame from project-owned AI-generated Unity-fork enemy sheet; source CREDITS.md, Painted enemy sprites from the Unity fork; source assets/enemies-unity/provenance.json. No third-party license claimed."
+    },
+    {
+      "key": "enemy_hound",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/enemies-unity/painted_blightHound.webp",
+      "source_sha256": "1daac5975c059efeaf54c8b0400fcdc57bd82994a6333b8cc13f4a65d20d318f",
+      "destination_path": "Unity/Assets/Resources/Art/enemy-hound.png",
+      "destination_sha256": "70bc9626a924741accb2b524b029295905044ee8cc72a8ab115ef1433d52b16f",
+      "source_dimensions": [
+        384,
+        384
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Unchanged painted frame from project-owned AI-generated Unity-fork enemy sheet; source CREDITS.md, Painted enemy sprites from the Unity fork; source assets/enemies-unity/provenance.json. No third-party license claimed."
+    },
+    {
+      "key": "enemy_armor",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/enemies-unity/painted_livingArmor.webp",
+      "source_sha256": "6f56dea38257a02e1cfe040f20c9e746138918e80d4df834e76de1b5a5c0e66a",
+      "destination_path": "Unity/Assets/Resources/Art/enemy-armor.png",
+      "destination_sha256": "144e847487086773c614890ac192a908d3df1ea45c31b68909de71f6088aac51",
+      "source_dimensions": [
+        384,
+        384
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Unchanged painted frame from project-owned AI-generated Unity-fork enemy sheet; source CREDITS.md, Painted enemy sprites from the Unity fork; source assets/enemies-unity/provenance.json. No third-party license claimed."
+    },
+    {
+      "key": "enemy_boss",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/enemies-unity/painted_stitchedKing.webp",
+      "source_sha256": "d79b8d071b390c0f6c133efff8df7df7aba34e4acf6be54b255c672a3159f3c4",
+      "destination_path": "Unity/Assets/Resources/Art/enemy-boss.png",
+      "destination_sha256": "aaed338f6db8876f8b0a11f2501128ce70dc6ca1d4ccad43fb981700d41e564c",
+      "source_dimensions": [
+        384,
+        384
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Unchanged painted frame from project-owned AI-generated Unity-fork enemy sheet; source CREDITS.md, Painted enemy sprites from the Unity fork; source assets/enemies-unity/provenance.json. No third-party license claimed."
+    },
+    {
+      "key": "enemy_dragon",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/enemies-unity/painted_wyrmLord.webp",
+      "source_sha256": "f5fcb7ea1d4da441cef905d65eac89d244e3654b9765fe5e1edd64505b7693fe",
+      "destination_path": "Unity/Assets/Resources/Art/enemy-dragon.png",
+      "destination_sha256": "640e2814c4c947c063aa72b9b76c3ba2bc976c130386f0fb81c2b7b517f2216c",
+      "source_dimensions": [
+        384,
+        384
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Unchanged painted frame from project-owned AI-generated Unity-fork enemy sheet; source CREDITS.md, Painted enemy sprites from the Unity fork; source assets/enemies-unity/provenance.json. No third-party license claimed."
+    },
+    {
+      "key": "card_physical",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/combat-effects/slash1.webp",
+      "source_sha256": "c269ccd4c85d715374301ea48ec7ceb3b46600e050401091848ca4ffc6e82245",
+      "destination_path": "Unity/Assets/Resources/Art/card-physical.png",
+      "destination_sha256": "e940c8007e0bd11a302629873d0d09054ed101a6a752e4d10bac15cdeb102508",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated combat effect; source CREDITS.md, Painted combat effect sprites / combat-effects entry; generation records in art/card-effect-refresh-2026-09-09 and art/combat-effects-2026-09-07. CC0 per source credits."
+    },
+    {
+      "key": "card_magic",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/combat-effects/starbolt1.webp",
+      "source_sha256": "5347d7903f849285727bc2678664f8c04eb3fcc8b0db278fddcef403c4bc3ff1",
+      "destination_path": "Unity/Assets/Resources/Art/card-magic.png",
+      "destination_sha256": "1ea970cdaa7f08ffd98988c7d09a7f3b4c1f128b45528df7c167d955b70e0b31",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated combat effect; source CREDITS.md, Painted combat effect sprites / combat-effects entry; generation records in art/card-effect-refresh-2026-09-09 and art/combat-effects-2026-09-07. CC0 per source credits."
+    },
+    {
+      "key": "card_defense",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/combat-effects/physicalGuard1.webp",
+      "source_sha256": "97b0c5ffb2f2dbfb7a717fd13bd5cb693337c6e944150e2c0fa5a8b79420a099",
+      "destination_path": "Unity/Assets/Resources/Art/card-defense.png",
+      "destination_sha256": "d2e309dc095d8c0f35023cebbe0e25b90abda33350713573454256d2bfa2795b",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated combat effect; source CREDITS.md, Painted combat effect sprites / combat-effects entry; generation records in art/card-effect-refresh-2026-09-09 and art/combat-effects-2026-09-07. CC0 per source credits."
+    },
+    {
+      "key": "card_healing",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/combat-effects/heal1.webp",
+      "source_sha256": "a0f57d616e722f585adb47f388cfe27268ad2bfbae65b51aacd0628b55a84477",
+      "destination_path": "Unity/Assets/Resources/Art/card-healing.png",
+      "destination_sha256": "aed7ef5d04a81c46dee8fc1bced0319e4f67ec388fb173a651fc1f0375eda4da",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated combat effect; source CREDITS.md, Painted combat effect sprites / combat-effects entry; generation records in art/card-effect-refresh-2026-09-09 and art/combat-effects-2026-09-07. CC0 per source credits."
+    },
+    {
+      "key": "card_status",
+      "source_repository": "https://github.com/cehinds/AshenSpire",
+      "source_commit": "c9ea9a843c928b315abe42a56e3a1fc48ce90f80",
+      "source_path": "assets/combat-effects/poisoned1.webp",
+      "source_sha256": "6e6d6bb7be23ad35ea55f118ed5bb7f666679a37bf0c06db42954d9a7d000c02",
+      "destination_path": "Unity/Assets/Resources/Art/card-status.png",
+      "destination_sha256": "69c6af6dd77365067db37558fe0ea3e2f16022f18366f62ec0517a793c63b631",
+      "source_dimensions": [
+        256,
+        256
+      ],
+      "source_mode": "RGBA",
+      "format_conversion": "WebP to PNG; lossless decoded pixels; no crop, resize, tint, or retouch.",
+      "provenance": "Project-owned AI-generated combat effect; source CREDITS.md, Painted combat effect sprites / combat-effects entry; generation records in art/card-effect-refresh-2026-09-09 and art/combat-effects-2026-09-07. CC0 per source credits."
+    }
+  ]
+}
